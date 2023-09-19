@@ -1,0 +1,13 @@
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\bin\Debug\form đăng ký đăng nhập.exe.config
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\bin\Debug\form đăng ký đăng nhập.exe
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\bin\Debug\form đăng ký đăng nhập.pdb
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form đăng ký đăng nhập.csproj.AssemblyReference.cache
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form đăng ký đăng nhập.csproj.SuggestedBindingRedirects.cache
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form_đăng_ký_đăng_nhập.Form1.resources
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form_đăng_ký_đăng_nhập.Properties.Resources.resources
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form đăng ký đăng nhập.csproj.GenerateResource.cache
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form đăng ký đăng nhập.csproj.CoreCompileInputs.cache
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form đăng ký đăng nhập.exe
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form đăng ký đăng nhập.pdb
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form_đăng_ký_đăng_nhập.Form2.resources
+D:\code C#\form đăng ký đăng nhập\form đăng ký đăng nhập\obj\Debug\form_đăng_ký_đăng_nhập.Form3.resources
